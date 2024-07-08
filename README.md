@@ -1,1 +1,1 @@
-# ArsenalLUAAimbot
+# EpiK HUB Scripts
