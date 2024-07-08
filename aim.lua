@@ -81,9 +81,9 @@ local dwRunService = game:GetService("RunService")
 
 local settings_tbl = {
     ESP_Enabled = true,
-    ESP_TeamCheck = true,
+    ESP_TeamCheck = false,
     Chams = true,
-    Chams_Color = Color3.fromRGB(128,0,128),
+    Chams_Color = Color3.fromRGB(255,0,255),
     Chams_Transparency = 0.1,
     Chams_Glow_Color = Color3.fromRGB(255,0,0)
 }
