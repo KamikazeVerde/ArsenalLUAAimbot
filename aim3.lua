@@ -8,8 +8,8 @@ local PLAYER = game.Players.LocalPlayer
             
             local DeleteMob ={
                 GUi = {
-                    OpenNCloseButton = true; -- Have A Button For It
-                    KeybindEnable = false; -- If You Want A Bind For The Menu
+                    OpenNCloseButton = false; -- Have A Button For It
+                    KeybindEnable = true; -- If You Want A Bind For The Menu
                     Keybind = "z"; -- Menu Key Bind
                 };
                 Aimbot= {
